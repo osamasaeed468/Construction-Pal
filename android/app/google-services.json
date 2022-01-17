@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "211016569840",
+    "project_id": "digital-construction-969cd",
+    "storage_bucket": "digital-construction-969cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211016569840:android:7b47962e55b93e3278c335",
+        "android_client_info": {
+          "package_name": "com.example.digitalconstruction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211016569840-6av8jgelsfbc61108itroieti0grrvjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBKBHWPooBuSxSopKa07wz_zt9SoRBbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211016569840-6av8jgelsfbc61108itroieti0grrvjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211016569840-e7p2q2s15e5qius5erpehkvo7ehkplsd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digitalconstruction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
